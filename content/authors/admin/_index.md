@@ -26,22 +26,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-computer interaction
+  - Eye-based Interaction
+  - VR/ AR/ MR
+  - Human factors and ergonomics
+  - Accessibility
+  
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Design
+      institution: Southeast University
+      year: Now
+    - course: BSc in Mechanical Engineering
+      institution: Southeast University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Jingze. I wish to be a researcher with a passion for cross-disciplinary technology development and human-computer interaction. Currently, my research interests include eye-based HCI, mixed reality, and user modeling, with a particular focus on evaluating and creating user-centered interactions to improve user efficiency and experience, as well as designing for individuals with disabilities. In the future, I hope to work on HCI design for tools, explore and practice HCI problems between humans and advanced technologies, and publish in top journals and conferences in HCI.
 {style="text-align: justify;"}
