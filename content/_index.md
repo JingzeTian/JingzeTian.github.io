@@ -11,14 +11,12 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-        
   - block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-
   - block: experience
     content:
       title: Experience
@@ -57,7 +55,6 @@ sections:
               * Proposed a new research idea: "Enlarging Interaction Space beyond Physical Constraints in Mixed Reality."
     design:
       columns: '2'
- 
   - block: collection
     id: featured
     content:
@@ -68,9 +65,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
-  
-
+      view: card  
  - block: collection
     content:
       title: Recent Publications
@@ -85,7 +80,6 @@ sections:
     design:
       columns: '2'
       view: citation
-
   - block: collection
     id: posts
     content:
@@ -113,7 +107,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-
   - block: portfolio
     id: projects
     content:
@@ -141,7 +134,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-
   - block: markdown
     content:
       title: Gallery
@@ -150,8 +142,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-
-
   - block: collection
     id: talks
     content:
