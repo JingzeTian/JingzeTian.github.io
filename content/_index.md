@@ -5,12 +5,20 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: hero
+    design:
+      background:
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
+        text_color_light: true
+        
   - block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
   - block: experience
     content:
       title: Experience
@@ -39,7 +47,7 @@ sections:
               * Paper writing and submission (CHI'24)
         - title: Remote intern
           company: Tsinghua University 
-          company_url: ''
+          company_url: '' 
           # company_logo: org-x
           location: Beijing, China
           date_start: '2023-05-16'
