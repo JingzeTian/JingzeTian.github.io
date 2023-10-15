@@ -69,27 +69,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: APEX Lab, Hong Kong University of Science and Technology (Guangzhou)
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Guangzhou, China
+          date_start: '2023-05-29'
+          date_end: '2023-09-23'
           description: |2-
-              Responsibilities include:
+              Independently generated a research idea and as a leader, accomplished the following tasks:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Literature review and Research protocol
+              * Participants recruitment
+              * Conducting experiments and results analysing
+              * Paper writing and submission (CHI'24)
+        - title: Remote Research Assistant
+          company: Institute for Network Sciences and Cyberspace, Tsinghua University
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Beijing, China
+          date_start: '2023-05-16'
+          date_end: ''
+          description:  |2-
+              * Researching, literature review, and discussions.
+              * Proposed a new research idea: "Enlarging Interaction Space beyond Physical Constraints in Mixed Reality."
     design:
       columns: '2'
     # - block: experience 
