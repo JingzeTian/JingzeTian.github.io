@@ -41,23 +41,58 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-  - block: experience
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: R
+  #         description: 90%
+  #         icon: r-project
+  #         icon_pack: fab
+  #       - name: Statistics
+  #         description: 100%
+  #         icon: chart-line
+  #         icon_pack: fas
+  #       - name: Photography
+  #         description: 10%
+  #         icon: camera-retro
+  #         icon_pack: fas
+  # - block: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: CEO
+  #         company: GenCoin
+  #         company_url: ''
+  #         company_logo: org-gc
+  #         location: California
+  #         date_start: '2021-01-01'
+  #         date_end: ''
+  #         description: |2-
+  #             Responsibilities include:
+
+  #             * Analysing
+  #             * Modelling
+  #             * Deploying
+  #       - title: Professor of Semiconductor Physics
+  #         company: University X
+  #         company_url: ''
+  #         company_logo: org-x
+  #         location: California
+  #         date_start: '2016-01-01'
+  #         date_end: '2020-12-31'
+  #         description: Taught electronic engineering and researched semiconductor physics.
+  #   design:
+  #     columns: '2'
+    - block: experience 
     content:
       title: Experience
       # Date format for experience
@@ -69,27 +104,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: APEX Lab, Hong Kong University of Science and Technology (Guangzhou)
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          # company_logo: org-gc
+          location: Guangzhou, China
+          date_start: '2023-05-29'
+          date_end: '2023-09-15'
           description: |2-
-              Responsibilities include:
+              Independently generated a research idea and as a leader, accomplished the following tasks:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Literature review and Research protocol
+              * Participants recruitment
+              * Conducting experiments and results analysing
+              * Paper writing and submission (CHI'24)
+        - title: Remote intern
+          company: Tsinghua University 
+          company_url: '' 
+          # company_logo: org-x
+          location: Beijing, China
+          date_start: '2023-05-16'
+          date_end: ''
+          description:  |2-
+              * Researching, literature review, and discussions.
+              * Proposed a new research idea: "Enlarging Interaction Space beyond Physical Constraints in Mixed Reality."
     design:
       columns: '2'
   - block: accomplishments
