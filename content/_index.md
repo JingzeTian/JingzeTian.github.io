@@ -70,7 +70,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-          company: [Accessible & Pervasive User EXperience (APEX) Group](https://www.mingmingfan.com/lab/), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
+          company: Accessible & Pervasive User EXperience ([APEX](https://www.mingmingfan.com/lab/)) Group, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
           company_url: ''
           # company_logo: org-gc
           location: Guangzhou, China
