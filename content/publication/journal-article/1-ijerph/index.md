@@ -1,21 +1,19 @@
 ---
-title: "Enhancing User Experience of Eye-Controlled Systems: Design Recommendations on the Optimal Size, Distance and Shape of Interactive Components from the Perspective of Peripheral Vision"
+title: "Study on the brightness and graphical display object directions of the Single-Gaze-Gesture user interface"
 authors:
-- Yafeng Niu
+- Hong-rui Zuo
+- Ya-feng Niu
 - admin
-- Zijian Han
-- Mengyuan Qu
-- Mu Tong
 - Wenjun Yang
 - Chengqi Xue
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2021-08-29T00:00:00Z"
-doi: "10.3390/ijerph191710737"
+date: "2023-09-01T00:00:00Z"
+doi: "10.1016/j.displa.2023.102537"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-09-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,13 +21,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Environmental Research and Public Health, 19*(17)"
+publication: "*Displays, 80*"
 # publication_short: "111111111111111111111111111111111111111"
 
-abstract: For special populations with motor impairments, eye-controlled interaction may be the only way for them to communicate with the outside world. Because of the dominance of vision in the motor mechanism, eye-controlled interaction has high usability and important research value. During eye-controlled interaction, the visual channel needs to receive information from the graphical user interface (GUI) and transmit the user’s eye-controlled instructions, which overburdens the visual channel and reduces the efficiency of eye-controlled interaction. This study presents an ergonomic experiment to study how to design interactive GUI components in an eye-controlled user interface. The experiments were conducted based on the shape, size, and distance (from the object to the center of the screen) of the visual interactive components. The experiment comprised three parts:(1) the pre-experiment determined the evaluation index and selected the icon material; (2) the formal experiment was a three-factor within-subjects experiment, which included a search task using participants’ peripheral vision; and (3) after the experiment, subjective evaluations were conducted using a questionnaire. The results showed that the shape, size, and distance of the interactive object significantly affected the reaction time, and the size factor significantly affected the movement time of the eye-controlled interaction. Finally, combined with the results of the subjective evaluation, we concluded that the recommended sizes of the interactive components were 2.889°, 3.389°, and 3.889°, and the recommended distances were 5.966° and 8.609°. Additionally, designers should utilize components with simple concrete shapes as much as possible to improve user recognition efficiency. Our study provides enlightening recommendations on how to design components in eye-controlled interactive interfaces, and has great guiding significance for building design standards of the eye-controlled systems.
+abstract: Single gaze gestures (SGGs), as the basic unit of gaze gestures, interact with graphical display objects (GDOs) on a graphical user interface (GUI) through user saccades to control the system. The brightness design of the interface and saccade direction can significantly affect interaction performance and user experience. Therefore, this study adopts the method of ergonomic experiments combined with subjective evaluation, proposing the design suggestions for the background brightness (BB), brightness contrast (BC), GDO (completion field) directions, and target brightness (TB) of the gaze gesture interface:(1) Background brightness:To ensure the efficiency and experience in actual use, the background of the interface should choose a brightness value slightly lower than 50%; (2) Brightness contrast:At 25% BB, it is advisable to choose a brightness value between 21.5% and 43.5%, and the best choice is 33.25%. Under the condition of BB above 50%, the brightness contrast value of 50% can meet the requirements of the operation task; (3) Target brightness:In the gaze gesture interface design, light color should be used to mark the target; (4) GDO Directions:The GDO should be placed on the upper side of the initiation field (IF), and it is best to be directly above the IF. The contribution of this research is the proposal of an interface design strategy that is beneficial for improving the performance and experience of gaze gesture interaction and can provide future directions and recommendations for interface design.
+
 
 # Summary. An optional shortened abstract.
-summary: Conducted an ergonomic experiment to analyze the impact of three factors:size, position, and metaphor of interaction elements in peripheral vision on the performance of gaze gestures.
+summary: Explored design recommendations for gaze gesture interfaces, considering background brightness, brightness contrast, target brightness, and GDO placement to enhance interaction performance and user experience.
 
 tags:
 - Human factors
@@ -40,14 +39,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.mdpi.com/1660-4601/19/17/10737/pdf
+# url_pdf: https://www.mdpi.com/1660-4601/19/17/10737/pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
