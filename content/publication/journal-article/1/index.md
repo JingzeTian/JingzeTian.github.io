@@ -26,7 +26,9 @@ publication_types: ["article-journal"]
 publication: "*International Journal of Environmental Research and Public Health, 19*(17)"
 # publication_short: "111111111111111111111111111111111111111"
 
-abstract: For special populations with motor impairments, eye-controlled interaction may be the
+abstract: |2
+
+For special populations with motor impairments, eye-controlled interaction may be the
 only way for them to communicate with the outside world. Because of the dominance of vision in
 the motor mechanism, eye-controlled interaction has high usability and important research value.
 During eye-controlled interaction, the visual channel needs to receive information from the graphical
