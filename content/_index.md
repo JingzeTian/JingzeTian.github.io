@@ -70,14 +70,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-          company: APEX Lab, Hong Kong University of Science and Technology (Guangzhou)
+          company: Accessible & Pervasive User EXperience (APEX) Group, Hong Kong University of Science and Technology (Guangzhou)
           company_url: ''
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Guangzhou, China
           date_start: '2023-05-29'
           date_end: '2023-09-23'
           description: |2-
-              Independently generated a research idea and as a leader, accomplished the following tasks:
+              With the instruction of Asst. Prof. Mingming Fan, independently generated a research idea and as a leader, accomplished the following tasks:
 
               * Literature review and Research protocol
               * Participants recruitment
@@ -86,11 +86,13 @@ sections:
         - title: Remote Research Assistant
           company: Institute for Network Sciences and Cyberspace, Tsinghua University
           company_url: ''
-          company_logo: org-x
+          # company_logo: org-x
           location: Beijing, China
           date_start: '2023-05-16'
           date_end: ''
           description:  |2-
+            With the instruction of Asst. Prof. Xin Yi, accomplished the following tasks:
+
               * Researching, literature review, and discussions.
               * Proposed a new research idea: "Enlarging Interaction Space beyond Physical Constraints in Mixed Reality."
     design:
