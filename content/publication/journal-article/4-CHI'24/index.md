@@ -53,7 +53,7 @@ url_project: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'PAPER-0.5X-V2.0.png'
+  caption: 'E:\Documents\GitHub\JingzeTIAN-hugo-academic\content\publication\journal-article\4-CHI'24\PAPER-0.5X-V2.0.png'
   focal_point: ""
   preview_only: false
 
