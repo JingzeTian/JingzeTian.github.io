@@ -53,7 +53,7 @@ url_project: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'E:\Documents\GitHub\JingzeTIAN-hugo-academic\content\publication\journal-article\4-CHI'24\PAPER-0.5X-V2.0.png'
+  caption: 'Twelve people with Spinal Muscular Atrophy designed upper-body gestures for VR commands. Two of them participated in person, while the other ten joined remotely. All participants actively took part in this research, and Participant 6 preferred to conduct the experiments without turning on the camera.'
   focal_point: ""
   preview_only: false
 
