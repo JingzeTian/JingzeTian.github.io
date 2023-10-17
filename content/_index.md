@@ -221,7 +221,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '3'
       view: compact
   # - block: collection
   #   id: talks
