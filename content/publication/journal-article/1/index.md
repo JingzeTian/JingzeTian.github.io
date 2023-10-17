@@ -26,9 +26,7 @@ publication_types: ["article-journal"]
 publication: "*International Journal of Environmental Research and Public Health, 19*(17)"
 # publication_short: "111111111111111111111111111111111111111"
 
-abstract: |2
-
-For special populations with motor impairments, eye-controlled interaction may be the
+abstract: For special populations with motor impairments, eye-controlled interaction may be the
 only way for them to communicate with the outside world. Because of the dominance of vision in
 the motor mechanism, eye-controlled interaction has high usability and important research value.
 During eye-controlled interaction, the visual channel needs to receive information from the graphical
@@ -37,7 +35,7 @@ visual channel and reduces the efficiency of eye-controlled interaction. This st
 ergonomic experiment to study how to design interactive GUI components in an eye-controlled user
 interface. The experiments were conducted based on the shape, size, and distance (from the object
 to the center of the screen) of the visual interactive components. The experiment comprised three
-parts:(1) the pre-experiment determined the evaluation index and selected the icon material; (2) the
+parts: (1) the pre-experiment determined the evaluation index and selected the icon material; (2) the
 formal experiment was a three-factor within-subjects experiment, which included a search task using
 participants’ peripheral vision; and (3) after the experiment, subjective evaluations were conducted
 using a questionnaire. The results showed that the shape, size, and distance of the interactive object
