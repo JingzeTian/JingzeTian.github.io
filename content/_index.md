@@ -70,14 +70,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-          company: Accessible & Pervasive User EXperience (APEX) Group, Hong Kong University of Science and Technology (Guangzhou)
+          company: [Accessible & Pervasive User EXperience (APEX) Group](https://www.mingmingfan.com/lab/), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
           company_url: ''
           # company_logo: org-gc
           location: Guangzhou, China
           date_start: '2023-05-29'
           date_end: '2023-09-23'
           description: |2-
-              With the instruction of Asst. Prof. Mingming Fan, independently generated a research idea and as a leader, accomplished the following tasks:
+              With the instruction of [Prof. Mingming Fan](https://www.mingmingfan.com/), independently generated a research idea and as a leader, accomplished the following tasks:
 
               * Literature review and Research protocol
               * Participants recruitment
@@ -91,7 +91,7 @@ sections:
           date_start: '2023-05-16'
           date_end: ''
           description:  |2-
-            With the instruction of Asst. Prof. Xin Yi, accomplished the following tasks:
+            With the instruction of [Prof. Xin Yi](https://scholar.google.com/citations?hl=zh-CN&user=7Uy9RVYAAAAJ), accomplished the following tasks:
 
               * Researching, literature review, and discussions.
               * Proposed a new research idea: "Enlarging Interaction Space beyond Physical Constraints in Mixed Reality."
