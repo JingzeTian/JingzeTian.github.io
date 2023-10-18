@@ -1,6 +1,6 @@
 ---
 title: Sea Battle Simulation Platform
-summary: Designed the user interface for [Daquan Company](https://www.daqo.com/Child/company/id/907.html)'s industrial park management system 
+summary: A Sea Battle simulation platform using Unreal Engine 4 (UE4).
 tags:
   - Development
 date: '2022-06-29T00:00:00Z'
