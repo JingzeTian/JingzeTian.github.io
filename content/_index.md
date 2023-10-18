@@ -77,7 +77,7 @@ sections:
           date_start: '2023-05-29'
           date_end: '2023-09-23'
           description: |2-
-              With the instruction of [Prof. Mingming Fan](https://www.mingmingfan.com/), independently generated a research idea and as a leader, accomplished the following tasks:
+              With the instruction of [Prof. Mingming Fan](https://www.mingmingfan.com/) and the assistance of [Dr. Franklin](https://franklin-li.com/), independently generated a research idea and as a leader, accomplished the following tasks:
 
               * Literature review and Research protocol
               * Participants recruitment
