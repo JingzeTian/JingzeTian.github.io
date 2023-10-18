@@ -1,5 +1,5 @@
 ---
-title: HCIX Project:VR accessibility for people with motor impairments
+title: HCIX'24 Project:VR accessibility for people with motor impairments
 summary: Join the APEX Lab as a research assistant and lead a VR accessibility project. The paper has been submitted to CHI'24, and I have generated five other research ideas about accessibility.
 tags:
   - Research
@@ -33,8 +33,10 @@ slides: example
 
 ## 1. Achievements:
 
-With the guidance of Assistant Prof. Mingming Fan, I led a research team and conducted a user study aimed at improving VR accessibility for people with motor impairments, specifically those with Spinal Muscular Atrophy, using participatory design.
-As the first author, my paper titled "Designing Gaze-Assisted Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR" has been submitted to CHI'24.
+1. With the guidance of [Prof. Mingming Fan](https://www.mingmingfan.com/), I led a research team and conducted a user study aimed at improving VR accessibility for people with motor impairments, specifically those with Spinal Muscular Atrophy, using **participatory design**.
+
+2. As the first author, my paper titled "Designing Gaze-Assisted Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR" has been submitted to **CHI'24**.
+
 
 ## 2. Timeline:
 
@@ -49,25 +51,29 @@ As the first author, my paper titled "Designing Gaze-Assisted Upper-Body Gesture
 - 23/08/10-23/09/10: Analyzed the results.
 - 23/08/16-23/09/15: Wrote and edited the paper.
 
+
 ## 3. Difficulties and Solutions:
 
 #### Difficulty 1: Participants
 To conduct research on VR Accessibility, we needed to find in-person or online participants with VR experience. However, it was challenging to recruit both types. We visited hospitals and the local community center for people with disabilities (Disability Federation). Most of the people we met were elderly and unfamiliar with computing devices. Although we found some younger individuals with motor impairments, few of them had VR experience, which was essential for our study.
-  - Solution
+  - **Solution:**
   I continued to connect with the disability community, both online and in person. I made efforts to seek help from each person I connected with, and eventually, I reached out to [the Meier Advocacy & Support Center for SMA 美儿SMA关爱中心](http://www.meier.org.cn/), a disability advocacy organization. With their assistance, I finally recruited 12 suitable participants (2 in person and 10 online).
+
 
 #### Difficulty 2: Lack of prior research on VR commands
 We lacked prior research on VR commands for reference and faced the difficulty of summarizing specific VR tasks from a variety of VR applications.
-  - Solution
+  - **Solution**
   We dedicated significant effort to conduct video analysis of over 60 YouTube videos and applied rigorous criteria for coding.
+
 
 ## 4. Main Gains through the Project:
 
-I learned a new qualitative study method: User-centered design. Additionally, through interviewing for **over 24 hours** (12 participants * 2 hours), I fully learned how to explore demands from what people are saying and how to code and analyze the thinking from interview recordings.
+1. I learned a new qualitative study method: User-centered design. Additionally, through interviewing for **over 24 hours** (12 participants * 2 hours), I fully learned how to explore demands from what people are saying and how to code and analyze the thinking from interview recordings.
 
-I obtained connections with two disability advocacy organizations, one is [the Meier Advocacy & Support Center for SMA 美儿SMA关爱中心](http://www.meier.org.cn/), and another is [Guangzhou Rare Disease Care Center 广州众援力罕见病关爱中心](https://weibo.com/748287897). The core members of these organizations encourage me to continue my research in the future. Besides, I connected with **more than 50 people** with motor impairments, most of them have SMA, and others have ASL, cerebral palsy, etc. Based on these connections, I am motivated to do some research about improving VR/AR accessibility for people with motor impairments.
+2. I obtained connections with two disability advocacy organizations, one is [the Meier Advocacy & Support Center for SMA 美儿SMA关爱中心](http://www.meier.org.cn/), and another is [Guangzhou Rare Disease Care Center 广州众援力罕见病关爱中心](https://weibo.com/748287897). The core members of these organizations encourage me to continue my research in the future. Besides, I connected with **more than 50 people** with motor impairments, most of them have SMA, and others have ASL, cerebral palsy, etc. Based on these connections, I am motivated to do some research about improving VR/AR accessibility for people with motor impairments.
 
-Through our research, I fully participated in understanding how people with motor impairments want to interact with VR devices and found some potential research directions as well. I summarized them as follows.
+3. Through our research, I fully participated in understanding how people with motor impairments want to interact with VR devices and found some potential research directions as well. I summarized them as follows.
+
 
 ## 5. Future research direction:
 
