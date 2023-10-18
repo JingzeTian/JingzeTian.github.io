@@ -1,5 +1,5 @@
 ---
-title: HCIX'24 Project:VR accessibility for people with motor impairments
+title: HCIX'24:VR accessibility for people with motor impairments
 summary: Join the APEX Lab as a research assistant and lead a VR accessibility project. The paper has been submitted to CHI'24, and I have generated five other research ideas about accessibility.
 tags:
   - Research
@@ -9,7 +9,7 @@ date: '2023-06-1T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
