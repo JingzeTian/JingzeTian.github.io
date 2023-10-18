@@ -1,8 +1,8 @@
 ---
-title: UI Design for Industrial Park Management System
+title: Sea Battle Simulation Platform
 summary: Designed the user interface for [Daquan Company](https://www.daqo.com/Child/company/id/907.html)'s industrial park management system 
 tags:
-  - Design
+  - Development
 date: '2022-06-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -31,11 +31,13 @@ slides: example
 
 ---
 
-I participated in the projects that involved designing the user interface for [Daquan Company](https://www.daqo.com/Child/company/id/907.html)'s industrial park management system using Figma, creating over 30 webpages, and delivering them to frontend engineers.
+This project builds a Sea Battle simulation platform using Unreal Engine 4 (UE4).
 
-Note: The complete webpages have been used, and here are two examples.
+My work:
+- I was responsible for the design and development of ship attack animations, scene integration, and functional integration using UE4 (Blueprint). 
+- I also participated in editing the models with Blender and Cinema4D.
 
-![Alt text](UI/Dark.png) ![Alt text](UI/Light.png)
+<video src="UE4.mp4" controls title="!\[Alt text\](UI/Dark.png) !\[Alt text\](UI/Light.png)"></video>
 
 ---
 

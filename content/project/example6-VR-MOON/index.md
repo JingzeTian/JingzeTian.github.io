@@ -2,7 +2,7 @@
 title: VR_MOON
 summary: A VR simulation platform developed by Unity and VR Interaction Framework (VRIF).
 tags:
-  - Design
+  - Development
 date: '2022-06-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
