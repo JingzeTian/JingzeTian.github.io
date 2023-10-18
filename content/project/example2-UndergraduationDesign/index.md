@@ -55,5 +55,7 @@ By the way, I also presented this project at [the 2nd Chinese Society of Human F
 
 <video src="Example.mp4" controls title="Title"></video>
 
+<video src="platform-yjy.mp4" controls title="Title"></video>
+
 ---
 
