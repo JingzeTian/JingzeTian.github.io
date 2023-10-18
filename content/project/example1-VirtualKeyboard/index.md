@@ -35,7 +35,7 @@ slides: example
 
 Using eye-tracking for typing is like clicking keys one by one with a single finger. We were curious about whether the keyboard layout (especially its similarity to the QWERTY layout) would affect typing performance.
 
-Inspired by some papers related to the Quantitative Design of Virtual Keyboard Layout[^1,^2,^3] by Prof. Shumin Zhai, we conducted Monte Carlo simulations to create 5 virtual keyboard layouts with varying degrees of similarity to the QWERTY layout. 
+Inspired by some papers related to the Quantitative Design of Virtual Keyboard Layout [^1] [^2] [^3] by Prof. Shumin Zhai, we conducted Monte Carlo simulations to create 5 virtual keyboard layouts with varying degrees of similarity to the QWERTY layout. 
 
 ![image](2.jpg "5 virtual keyboard layouts")
 
@@ -61,3 +61,5 @@ As the project leader, I collaborated with an undergraduate student, and my main
 [^2]: Bi, X., Smith, B. A., & Zhai, S. (2010, April). Quasi-qwerty soft keyboard optimization. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 283-286).
 
 [^3]: Bi, X., & Zhai, S. (2016, May). IJqwerty: What difference does one key change make? Gesture typing keyboard optimization bounded by one key position change from Qwerty. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (pp. 49-58).
+
+---
