@@ -72,7 +72,7 @@ sections:
         - title: Research Assistant
           company: Accessible & Pervasive User EXperience ([APEX](https://www.mingmingfan.com/lab/)) Group, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
           company_url: ''
-          # company_logo: org-gc
+          company_logo: org-HKUST-GZ
           location: Guangzhou, China
           date_start: '2023-05-29'
           date_end: '2023-09-23'
@@ -86,7 +86,7 @@ sections:
         - title: Remote Research Assistant
           company: Institute for Network Sciences and Cyberspace, Tsinghua University
           company_url: ''
-          # company_logo: org-x
+          company_logo: org-tsinghua
           location: Beijing, China
           date_start: '2023-05-16'
           date_end: ''
