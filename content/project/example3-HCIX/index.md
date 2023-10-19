@@ -1,6 +1,6 @@
 ---
 title: HCIX'24:VR accessibility for people with motor impairments
-summary: Join the APEX Lab as a research assistant and lead a VR accessibility project. The paper has been submitted to CHI'24, and I have generated five other research ideas about accessibility.
+summary: Join the APEX Lab as a **Research Assistant** and lead a VR accessibility project. The paper has been submitted to CHI'24, and I have generated five other research ideas about accessibility.
 tags:
   - Research
 date: '2023-06-1T00:00:00Z'
@@ -12,22 +12,22 @@ image:
   # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 
 ---
