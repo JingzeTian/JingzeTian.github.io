@@ -84,7 +84,7 @@ Hi, I'm Jingze. I am a third-year graduate student in the Department of Industri
 
 🚩I will complete my master's degree in June 2024 and am currently pursuing a **Ph.D. opportunity (2024 fall)**!
 
-Based on a strong passion for HCI research and an interdisciplinary background in both design and engineering, I design and evaluate user-centered interfaces using diverse technologies, such as eye-based interaction, VR/AR/MR, to enhance performance and user experience. Additionally, I aim to explore and improve the accessibility of immersive technologies, such as virtual reality and augmented reality.
+I design and evaluate user-centered interfaces using diverse technologies to enhance performance and user experience. Also, I aim to explore and improve the accessibility of immersive technologies. If you have interests in chatting with me, feel free to contact me!
 
 {style="text-align: justify;"}
 
