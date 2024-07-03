@@ -14,31 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher/ Developer/ Designer 
+role: HCI Researcher/ Developer/ Designer 
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: City University of Hong Kong
+    url: https://www.seu.edu.cn/
   - name: Southeast University
     url: https://www.seu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human-computer interaction (HCI), Eye-based Interaction, VR/ AR/ MR, Human factors and ergonomics, Accessibility.
+bio: My research interests include Human-computer interaction (HCI), Multimodal Interaction, VR/ AR/ MR, Accessibility.
 
 # Interests to show in About widget
 interests:
   - Human-computer interaction
-  - Eye-based Interaction
-  - VR/ AR/ MR
-  - Human factors and ergonomics
+  - Multimodal Interaction
+  - VR / AR / MR
   - Accessibility
   
-
 # Education to show in About widget
 education:
   courses:
+    - course: PhD Creative Media
+      institution: City University of Hong Kong
+      year: Now
     - course: MSc in Design
       institution: Southeast University
-      year: Now
+      year: 2024
     - course: BSc in Mechanical Engineering
       institution: Southeast University
       year: 2021
@@ -80,11 +83,14 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I'm Jingze. I am a third-year graduate student in the Department of Industrial Design at Southeast University, under the supervision of [Prof. Yafeng Niu](https://me.seu.edu.cn/nyf_31777/list.htm) and [Prof. Chengqi Xue](https://me.seu.edu.cn/xcq/list.htm). I hold a bachelor's degree in Mechanical Engineering from Southeast University. 
+Hi, I'm Jingze. I am a first-year PhD student in CityU, under the supervision of [Prof. Can Liu](https://sweb.cityu.edu.hk/canliu/index.html). Previously, I obtained my bachelor and master degree from Southeast University supervised by [Prof. Yafeng Niu](https://me.seu.edu.cn/nyf_31777/list.htm) and [Prof. Chengqi Xue](https://me.seu.edu.cn/xcq/list.htm).
 
-🚩I will complete my master's degree in June 2024 and am currently pursuing a **Ph.D. opportunity (2024 fall)**!
 
-I design and evaluate user-centered interfaces using diverse technologies to enhance performance and user experience. Also, I aim to explore and improve the accessibility of immersive technologies. If you have interests in chatting with me, feel free to contact me!
+<!-- Hi, I'm Jingze. I am a third-year graduate student in the Department of Industrial Design at Southeast University, under the supervision of [Prof. Yafeng Niu](https://me.seu.edu.cn/nyf_31777/list.htm) and [Prof. Chengqi Xue](https://me.seu.edu.cn/xcq/list.htm). I hold a bachelor's degree in Mechanical Engineering from Southeast University. 
+
+🚩I will complete my master's degree in June 2024 and am currently pursuing a **Ph.D. opportunity (2024 fall)**! -->
+
+🚩I design and evaluate user-centered interfaces using diverse technologies to enhance performance and user experience. Also, I aim to explore and improve the accessibility of immersive technologies. Feel free to contact me if you have interests in chatting with me!
 
 {style="text-align: justify;"}
 
