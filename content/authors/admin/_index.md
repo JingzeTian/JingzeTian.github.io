@@ -90,7 +90,9 @@ Hi, I'm Jingze. I am a first-year PhD student in CityU, under the supervision of
 
 🚩I will complete my master's degree in June 2024 and am currently pursuing a **Ph.D. opportunity (2024 fall)**! -->
 
-🚩I design and evaluate user-centered interfaces using diverse technologies to enhance performance and user experience. Also, I aim to explore and improve the accessibility of immersive technologies. Feel free to contact me if you have interests in chatting with me!
+I design and evaluate user-centered interfaces using diverse technologies to enhance performance and user experience. Also, I aim to explore and improve the accessibility of immersive technologies. 
+
+🚩 :smile: I am eager to discuss and potentially extend collaboration with people who share common research interests. Please feel free to contact me if you are among them!
 
 {style="text-align: justify;"}
 
