@@ -69,6 +69,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD Student
+          company:  Laboratory of Empirical Research for Future Interfaces ([ERFI lab](https://sweb.cityu.edu.hk/canliu/team.html)), CityU
+          company_url: ''
+          company_logo: org-CityU
+          location: Hong Kong, China
+          date_start: '2024-09-01'
+          date_end: ''
+          description:  |2-
+            With the instruction of my supervisor Prof. Can, studied and investigated the affordance of Speech-to-text input.
         - title: Research Assistant
           company: Accessible & Pervasive User EXperience ([APEX](https://www.mingmingfan.com/lab/)) Group, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
           company_url: ''
@@ -83,18 +92,6 @@ sections:
               * Participants recruitment
               * Conducting experiments and results analysing
               * Paper writing and submission (CHI'24)
-        - title: Remote Research Assistant
-          company: Institute for Network Sciences and Cyberspace, Tsinghua University
-          company_url: ''
-          company_logo: org-tsinghua
-          location: Beijing, China
-          date_start: '2023-05-16'
-          date_end: ''
-          description:  |2-
-            With the instruction of [Prof. Xin Yi](https://scholar.google.com/citations?hl=zh-CN&user=7Uy9RVYAAAAJ), accomplished the following tasks:
-
-              * Researching, literature review, and discussions.
-              * Proposed a new research idea: "Enlarging Interaction Space beyond Physical Constraints in Mixed Reality."
     design:
       columns: '2'
   # - block: accomplishments
