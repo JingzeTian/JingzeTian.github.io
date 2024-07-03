@@ -247,6 +247,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: tianjingzetjz@163.com
       phone: +86 13919328307
+      wechat: ChatTJZ
       # appointment_url: 'https://calendly.com'
       address:
         street: Moling Street
