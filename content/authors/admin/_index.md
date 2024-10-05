@@ -34,10 +34,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Creative Media
+    - course: PhD in Creative Media
       institution: City University of Hong Kong
       year: Now
-    - course: MSc in Design
+    - course: MSc in Design Science
       institution: Southeast University
       year: 2024
     - course: BSc in Mechanical Engineering
