@@ -20,18 +20,16 @@ role: HCI Researcher/ Developer/ Designer
 organizations:
   - name: City University of Hong Kong
     url: https://www.seu.edu.cn/
-  - name: Southeast University
-    url: https://www.seu.edu.cn/
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human-computer interaction (HCI), Multimodal Interaction, VR/ AR/ MR, Accessibility.
+bio: My research interests include Human-computer interaction (HCI), Multimodal Interaction, XR in Accessibility, Human factors and ergonomics.
 
 # Interests to show in About widget
 interests:
-  - Human-computer interaction
   - Multimodal Interaction
-  - VR / AR / MR
-  - Accessibility
+  - XR in Accessibility
+  - Human factors and ergonomics
   
 # Education to show in About widget
 education:
@@ -92,7 +90,9 @@ Hi, I'm Jingze. I am a first-year PhD student in CityU, under the supervision of
 
 I design and evaluate user-centered interfaces using diverse technologies to enhance performance and user experience. Also, I aim to explore and improve the accessibility of immersive technologies. 
 
-🚩 :smile: I am eager to discuss and potentially extend collaboration with people who share common research interests. Please feel free to contact me if you are among them!
+🚩I am eager to discuss and potentially extend collaboration with people who share common research interests. Please feel free to contact me if you are among them!:smile:
+
+My email: jingztian2-c@my.cityu.edu.hk
 
 {style="text-align: justify;"}
 
