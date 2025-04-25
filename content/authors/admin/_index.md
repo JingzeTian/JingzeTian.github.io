@@ -23,10 +23,11 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human-computer interaction (HCI), Multimodal Interaction, XR in Accessibility, Human factors and ergonomics.
+bio: My research interests include Human-computer interaction (HCI), Thinking tools with LLM, Multimodal Interaction, XR in Accessibility, Human factors and ergonomics.
 
 # Interests to show in About widget
 interests:
+  - Thinking tools with LLM
   - Multimodal Interaction
   - XR in Accessibility
   - Human factors and ergonomics
