@@ -1,6 +1,9 @@
 # IDEs
 .idea/
 
+# SpecStory
+.specstory/
+
 # Hugo
 resources/
 public/
