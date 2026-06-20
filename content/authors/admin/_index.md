@@ -88,7 +88,7 @@ Hi, I'm Jingze. I am a first-year PhD student in CityU, under the supervision of
 
 🚩I am eager to discuss and potentially extend collaboration with people who share common research interests. Please feel free to contact me if you are among them!:smile:
 
-My email: jingztian2-c@my.cityu.edu.hk --> -->
+My email: jingztian2-c@my.cityu.edu.hk --> 
 
 **My broader research interest lies in content creation at the intersection of AI and multimodal interaction.** I am interested in how AI can expand the generation and organization of information, and how multimodal interaction can support more natural and expressive forms of input. I see this intersection as a space where new creative workflows may emerge and where interfaces need to evolve accordingly.
 
