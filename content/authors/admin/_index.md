@@ -14,23 +14,20 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: HCI Researcher/ Developer/ Designer 
-
+role: HCI Researcher/ Design Engineer
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: City University of Hong Kong
-    url: https://www.seu.edu.cn/
+    url: https://www.cityu.edu.hk/
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human-computer interaction (HCI), Thinking tools with LLM, Multimodal Interaction, XR in Accessibility, Human factors and ergonomics.
+bio: My research interests include Human-computer interaction (HCI), Thinking tools with LLM, and Multimodal Interaction.
 
 # Interests to show in About widget
 interests:
   - Thinking tools with LLM
   - Multimodal Interaction
-  - XR in Accessibility
-  - Human factors and ergonomics
   
 # Education to show in About widget
 education:
@@ -71,9 +68,7 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -87,13 +82,17 @@ Hi, I'm Jingze. I am a first-year PhD student in CityU, under the supervision of
 
 <!-- Hi, I'm Jingze. I am a third-year graduate student in the Department of Industrial Design at Southeast University, under the supervision of [Prof. Yafeng Niu](https://me.seu.edu.cn/nyf_31777/list.htm) and [Prof. Chengqi Xue](https://me.seu.edu.cn/xcq/list.htm). I hold a bachelor's degree in Mechanical Engineering from Southeast University. 
 
-🚩I will complete my master's degree in June 2024 and am currently pursuing a **Ph.D. opportunity (2024 fall)**! -->
+<!-- 🚩I will complete my master's degree in June 2024 and am currently pursuing a **Ph.D. opportunity (2024 fall)**! -->
 
-I design and evaluate user-centered interfaces using diverse technologies to enhance performance and user experience. Also, I aim to explore and improve the accessibility of immersive technologies. 
+<!-- I design and evaluate user-centered interfaces using diverse technologies to enhance performance and user experience. Also, I aim to explore and improve the accessibility of immersive technologies. 
 
 🚩I am eager to discuss and potentially extend collaboration with people who share common research interests. Please feel free to contact me if you are among them!:smile:
 
-My email: jingztian2-c@my.cityu.edu.hk
+My email: jingztian2-c@my.cityu.edu.hk --> -->
+
+**My broader research interest lies in content creation at the intersection of AI and multimodal interaction.** I am interested in how AI can expand the generation and organization of information, and how multimodal interaction can support more natural and expressive forms of input. I see this intersection as a space where new creative workflows may emerge and where interfaces need to evolve accordingly.
+
+My current PhD work focuses on **thinking tools for content creation**. In particular, I investigate interfaces that combine AI-assisted speech input with direct manipulation, exploring how speaking and doing together can support idea development, organization, and other forms of knowledge-intensive creative work.
 
 {style="text-align: justify;"}
 
