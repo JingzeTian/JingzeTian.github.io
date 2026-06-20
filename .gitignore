@@ -1,8 +1,12 @@
 # IDEs
 .idea/
+.vscode/
 
 # SpecStory
 .specstory/
+
+# Cursor
+.cursorindexingignore
 
 # Hugo
 resources/
