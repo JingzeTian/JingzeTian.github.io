@@ -1,0 +1,29 @@
+// Stacked section heading above content (collection blocks)
+#projects.wg-collection,
+#featured.wg-collection {
+  .section-heading {
+    margin-bottom: 2.5rem !important;
+    text-align: left;
+  }
+}
+
+// Projects section: masonry-style gallery grid
+#projects.wg-collection {
+  .col-12:not(.section-heading) {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+
+    @media screen and (max-width: 1199px) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media screen and (max-width: 768px) {
+      grid-template-columns: 1fr;
+    }
+
+    .card {
+      margin: 0;
+    }
+  }
+}

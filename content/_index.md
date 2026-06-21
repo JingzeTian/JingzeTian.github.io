@@ -39,28 +39,19 @@ sections:
               * Paper writing and submission (CHI'24)
     design:
       columns: '2'
-  - block: portfolio
+  - block: collection
     id: projects
     content:
       title: Projects
+      count: 0
       filters:
         folders:
           - project
-      default_button_index: 0
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Research
-          tag: Research
-        - name: Development
-          tag: Development
-        - name: Design
-          tag: Design
     design:
-      columns: '2'
-      view: Masonry
-      flip_alt_rows: false
+      view: masonry
+      columns: '1'
   - block: collection
+    id: featured
     content:
       title: Recent Publications
       filters:
@@ -68,22 +59,23 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '3'
+      columns: '1'
       view: Citation
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
-      email: tianjingzetjz@163.com
-      phone: +86 13919328307
+      email: jingztian2-c@my.cityu.edu.hk
+      phone: +852 46325507
       wechat: ChatTJZ
       address:
-        street: Moling Street
-        city: Jiangning District, Nanjing
-        region: Jiangsu
-        postcode: '211189'
-        country: China
+        street: 18 Tat Hong Avenue, CMC, City University of Hong Kong
+        city: Kowloon Tong
+        region: Kowloon
+        postcode: '999077'
+        country: Hong Kong
+   
       autolink: true
     design:
       columns: '2'

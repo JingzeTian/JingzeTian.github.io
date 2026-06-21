@@ -56,9 +56,9 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=mt2AF3QAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/JingzeTian
@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I'm Jingze. I am a first-year PhD student in CityU, under the supervision of [Prof. Can Liu](https://sweb.cityu.edu.hk/canliu/index.html). Previously, I obtained my bachelor and master degree from Southeast University supervised by [Prof. Yafeng Niu](https://me.seu.edu.cn/nyf_31777/list.htm) and [Prof. Chengqi Xue](https://me.seu.edu.cn/xcq/list.htm).
+Hi, I'm Jingze. I am a second-year PhD student in CityU, under the supervision of [Prof. Can Liu](https://sweb.cityu.edu.hk/canliu/index.html). Previously, I obtained my bachelor and master degree from Southeast University supervised by [Prof. Yafeng Niu](https://me.seu.edu.cn/nyf_31777/list.htm) and [Prof. Chengqi Xue](https://me.seu.edu.cn/xcq/list.htm).
 
 
 <!-- Hi, I'm Jingze. I am a third-year graduate student in the Department of Industrial Design at Southeast University, under the supervision of [Prof. Yafeng Niu](https://me.seu.edu.cn/nyf_31777/list.htm) and [Prof. Chengqi Xue](https://me.seu.edu.cn/xcq/list.htm). I hold a bachelor's degree in Mechanical Engineering from Southeast University. 
