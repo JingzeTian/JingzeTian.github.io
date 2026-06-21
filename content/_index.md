@@ -40,17 +40,6 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: projects
-    content:
-      title: Projects
-      count: 0
-      filters:
-        folders:
-          - project
-    design:
-      view: masonry
-      columns: '1'
-  - block: collection
     id: featured
     content:
       title: Recent Publications
@@ -61,6 +50,17 @@ sections:
     design:
       columns: '1'
       view: Citation
+  - block: collection
+    id: projects
+    content:
+      title: Projects
+      count: 0
+      filters:
+        folders:
+          - project
+    design:
+      view: masonry
+      columns: '1'
   - block: contact
     id: contact
     content:
