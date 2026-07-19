@@ -4,6 +4,10 @@ authors:
 - Wengxi Li
 - admin
 - Can Liu
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- ""
 date: "2026-04-13T00:00:00Z"
 doi: "10.1145/3772318.3791713"
 

@@ -12,7 +12,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2021-08-29T00:00:00Z"
-doi: ""
+doi: "10.3390/ijerph191710737"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

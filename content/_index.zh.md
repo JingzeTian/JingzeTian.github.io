@@ -22,7 +22,7 @@ sections:
           date_start: '2024-09-01'
           date_end: ''
           description:  |2-
-            导师为[刘灿教授](https://sweb.cityu.edu.hk/canliu/index.html)，研究面向内容创作的思维工具——将 AI 辅助语音输入与直接操作相结合的界面。近期成果包括 Orality（一作，CHI'26）与 EchoLadder（UIST'25）。
+            导师为[刘灿教授](https://sweb.cityu.edu.hk/canliu/index.html)，研究面向内容创作的思维工具——将 AI 辅助语音输入与直接操作相结合的界面。近期成果包括 Orality（共同一作，CHI'26）与 EchoLadder（UIST'25）。
         - title: 研究助理
           company: Accessible & Pervasive User EXperience ([APEX](https://www.mingmingfan.com/lab/)) Group, [香港科技大学（广州）](https://www.hkust-gz.edu.cn/)
           company_url: ''

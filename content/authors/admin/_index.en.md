@@ -34,13 +34,13 @@ education:
   courses:
     - course: PhD in Creative Media
       institution: City University of Hong Kong
-      year: Now
+      year: 2024–
     - course: MSc in Design Science
       institution: Southeast University
       year: 2024
     - course: BSc in Mechanical Engineering
       institution: Southeast University
-      year: 2021
+      year: 2017–2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -59,6 +59,13 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=mt2AF3QAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-8528-5276
+  - icon: university
+    icon_pack: fas
+    link: https://scholars.cityu.edu.hk/en/persons/jingztian2/
+    label: CityUHK Scholars
   - icon: github
     icon_pack: fab
     link: https://github.com/JingzeTian

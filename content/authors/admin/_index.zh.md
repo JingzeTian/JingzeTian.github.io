@@ -34,13 +34,13 @@ education:
   courses:
     - course: 创意媒体博士
       institution: 香港城市大学
-      year: 在读
+      year: 2024–
     - course: 设计学硕士
       institution: 东南大学
       year: 2024
     - course: 机械工程学士
       institution: 东南大学
-      year: 2021
+      year: 2017–2021
 
 # Social/Academic Networking
 social:
@@ -56,6 +56,13 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=mt2AF3QAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-8528-5276
+  - icon: university
+    icon_pack: fas
+    link: https://scholars.cityu.edu.hk/en/persons/jingztian2/
+    label: CityUHK Scholars
   - icon: github
     icon_pack: fab
     link: https://github.com/JingzeTian

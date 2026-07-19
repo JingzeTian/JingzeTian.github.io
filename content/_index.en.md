@@ -22,7 +22,7 @@ sections:
           date_start: '2024-09-01'
           date_end: ''
           description:  |2-
-            Advised by [Prof. Can Liu](https://sweb.cityu.edu.hk/canliu/index.html), I research thinking tools for content creation — interfaces that combine AI-assisted speech input with direct manipulation. Recent outcomes include Orality (first-author, CHI'26) and EchoLadder (UIST'25).
+            Advised by [Prof. Can Liu](https://sweb.cityu.edu.hk/canliu/index.html), I research thinking tools for content creation — interfaces that combine AI-assisted speech input with direct manipulation. Recent outcomes include Orality (co-first author, CHI'26) and EchoLadder (UIST'25).
         - title: Research Assistant
           company: Accessible & Pervasive User EXperience ([APEX](https://www.mingmingfan.com/lab/)) Group, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
           company_url: ''

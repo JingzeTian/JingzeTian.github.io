@@ -28,7 +28,7 @@ abstract: Single gaze gestures (SGGs), as the basic unit of gaze gestures, inter
 
 
 # Summary. An optional shortened abstract.
-summary: Explored design recommendations for gaze gesture interfaces, considering background brightness, brightness contrast, target brightness, and GDO placement to enhance interaction performance and user experience.
+summary: 面向凝视手势界面给出设计建议，综合考虑背景亮度、亮度对比、目标亮度与 GDO 布局，以提升交互表现与用户体验。
 
 tags:
 - Human factors
