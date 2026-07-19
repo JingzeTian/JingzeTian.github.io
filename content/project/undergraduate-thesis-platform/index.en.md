@@ -1,6 +1,6 @@
 ---
 title: 'Undergraduate Thesis: An Ergonomics Experimental Platform for Evaluating Eye-Controlled Interfaces'
-summary: Develop an experimental platform using Unity and C#, and recruit 20 participants to conduct an ergonomic experiment through this platform.
+summary: A Unity-based Fitts' Law platform for evaluating eye-controlled interfaces, later reused across multiple theses and papers.
 tags:
   - Research
   - Development
@@ -10,7 +10,8 @@ date: '2021-05-27T00:00:00Z'
 external_link: ''
 
 image:
-  focal_point: Smart
+  focal_point: Center
+  preview_only: true
 
 ---
 # Introduction

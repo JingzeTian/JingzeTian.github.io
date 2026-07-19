@@ -1,6 +1,6 @@
 ---
 title: Two Product Designs
-summary: Design of Eye-Controlled Assistive Wheelchair for ALS Patients and a Companion Robot for Attention Training in Autistic Children.
+summary: Two assistive concepts — an eye-controlled wheelchair for ALS users and a companion robot for autistic children.
 tags:
   - Design
 date: '2022-04-27T00:00:00Z'
@@ -9,7 +9,8 @@ date: '2022-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  focal_point: Smart
+  focal_point: Center
+  preview_only: true
 
 # links:
 #   - icon: twitter

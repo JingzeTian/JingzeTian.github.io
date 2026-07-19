@@ -1,22 +1,30 @@
 # Languages
 #   Create a section for each of your site's languages.
 #   Documentation: https://wowchemy.com/docs/guide/language/
+#   Content uses filename-based translations (index.en.md / index.zh.md)
+#   so images and other page resources stay shared in the same folder.
 
 # Default language
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  languageName: English
+  title: Jingze Tian
+  weight: 1
+  params:
+    description: Personal website of Jingze Tian, HCI researcher at City University of Hong Kong.
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+# Chinese
+zh:
+  languageCode: zh-Hans
+  languageName: 中文
+  title: 田景泽
+  weight: 2
+  params:
+    description: 田景泽的个人网站，香港城市大学人机交互（HCI）研究者。
+    locale:
+      date_format: '2006年1月2日'
+      time_format: '15:04'
+      address_format: en-us
+    footer:
+      copyright:
+        notice: '© {year} 田景泽。本作品采用 {license} 许可协议。'

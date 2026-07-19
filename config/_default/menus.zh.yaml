@@ -1,0 +1,15 @@
+# Navigation Links (Chinese)
+
+main:
+  - name: 首页
+    url: '#about'
+    weight: 10
+  - name: 论文
+    url: '#featured'
+    weight: 20
+  - name: 项目
+    url: '#projects'
+    weight: 30
+  - name: 联系
+    url: '#contact'
+    weight: 40

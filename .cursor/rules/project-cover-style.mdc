@@ -1,0 +1,19 @@
+---
+description: Project Gallery 封面图风格与新增项目出图流程。当用户新增/更新 content/project、生成 featured 封面、或要求项目简介时使用。
+globs: content/project/**
+alwaysApply: false
+---
+
+# Project Cover Style
+
+生成或替换 Project Gallery 封面时，**必须完整遵循**：
+
+`docs/project-cover-style-spec.md`
+
+要点速查：
+
+- 输出：`content/project/<slug>/featured.jpg`（16:9，长边约 1600，JPEG）
+- Front matter：`focal_point: Center`，`preview_only: true`
+- 风格：slate-blue `#3B5B7A` + muted teal、冷灰蓝渐变底、扁平编辑插画、居中单一隐喻、无文字
+- Prompt：只用该文档中的英文模板，替换 `{{METAPHOR}}`
+- 同时写一句 12–25 词的英文 `summary`

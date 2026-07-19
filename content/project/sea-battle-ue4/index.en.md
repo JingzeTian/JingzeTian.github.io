@@ -1,6 +1,6 @@
 ---
 title: Sea Battle Simulation Platform
-summary: A Sea Battle simulation platform using **Unreal Engine 4 (UE4)**.
+summary: A naval combat simulation in Unreal Engine 4, covering ship attacks, scenes, and system integration.
 tags:
   - Development
 date: '2022-06-29T00:00:00Z'
@@ -9,7 +9,8 @@ date: '2022-06-29T00:00:00Z'
 external_link: ''
 
 image:
-  focal_point: Smart
+  focal_point: Center
+  preview_only: true
 
 # links:
 #   - icon: twitter

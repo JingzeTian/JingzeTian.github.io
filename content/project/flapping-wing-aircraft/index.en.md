@@ -1,6 +1,6 @@
 ---
 title: Biomimetic Flapping Wing Aircraft
-summary: A biomimetic flapping wing aircraft modeled by **Solidworks** and created by 3D print.
+summary: A biomimetic flapping-wing aircraft modeled in SolidWorks and fabricated via 3D printing.
 tags:
   - Development
 date: '2022-04-27T00:00:00Z'
@@ -9,7 +9,8 @@ date: '2022-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  focal_point: Smart
+  focal_point: Center
+  preview_only: true
 
 # links:
 #   - icon: twitter

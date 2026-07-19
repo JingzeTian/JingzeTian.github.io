@@ -1,6 +1,6 @@
 ---
 title: Eye-Controlled Virtual Keyboard Layout Quantitative Design System
-summary: Conducting **ergonomic experiments** to investigate whether the keyboard layout (especially its similarity to the QWERTY layout) would affect gaze-typing performance.
+summary: Ergonomic study on how QWERTY similarity affects gaze-typing performance across five Monte Carlo–optimized keyboard layouts.
 tags:
   - Research
 date: '2021-05-27T00:00:00Z'

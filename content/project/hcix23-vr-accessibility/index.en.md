@@ -1,6 +1,6 @@
 ---
 title: "HCIX'23: VR Accessibility for People with Motor Impairments"
-summary: Joined the APEX Lab as a **Research Assistant** and led a VR accessibility project. The resulting paper was published at CHI'24, and I generated five other research ideas about accessibility.
+summary: Participatory design with people with SMA on gaze-assisted upper-body gestures for VR — published at CHI'24.
 tags:
   - Research
 date: '2023-06-01T00:00:00Z'
@@ -9,8 +9,8 @@ date: '2023-06-01T00:00:00Z'
 external_link: ''
 
 image:
-  # caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  focal_point: Center
+  preview_only: true
 
 # links:
 #   - icon: twitter

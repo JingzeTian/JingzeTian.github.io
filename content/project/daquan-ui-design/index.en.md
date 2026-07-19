@@ -1,6 +1,6 @@
 ---
 title: UI Design for Industrial Park Management System
-summary: Designed the user interface for [Daquan Company](https://www.daqo.com/Child/company/id/907.html)'s industrial park management system using **Figma**.
+summary: Figma UI for Daquan's industrial park management system — 30+ screens delivered to frontend engineers.
 tags:
   - Design
 date: '2022-06-29T00:00:00Z'
@@ -9,7 +9,8 @@ date: '2022-06-29T00:00:00Z'
 external_link: ''
 
 image:
-  focal_point: Smart
+  focal_point: Center
+  preview_only: true
 
 # links:
 #   - icon: twitter
