@@ -18,7 +18,7 @@ image:
 
 - 在[樊明明教授](https://www.mingmingfan.com/)指导下，我带领研究团队开展用户研究，面向运动障碍人群（尤其是脊髓性肌萎缩症 SMA 患者），采用**参与式设计**提升 VR 无障碍性。
 
-- 作为**第一作者**，论文 "**Designing Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR**" 发表于 **CHI'24**（[DOI](https://doi.org/10.1145/3613904.3642884)）。
+- 作为**共同一作**，论文 "**Designing Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR**" 发表于 **CHI'24**（[DOI](https://doi.org/10.1145/3613904.3642884)）。
 
 
 ---

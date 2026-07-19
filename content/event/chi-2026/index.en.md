@@ -9,8 +9,8 @@ address:
   region: Catalonia
   postcode: "08019"
   country: Spain
-summary: Participated in CHI 2026 and presented Orality (co-first author).
-abstract: Attended the ACM CHI Conference on Human Factors in Computing Systems in Barcelona. Presented Orality: A Semantic Canvas for Externalizing and Clarifying Thoughts with Speech (co-first author with Wengxi Li).
+summary: "Participated in CHI 2026 and presented Orality (co-first author)."
+abstract: "Attended the ACM CHI Conference on Human Factors in Computing Systems in Barcelona. Presented Orality: A Semantic Canvas for Externalizing and Clarifying Thoughts with Speech (co-first author with Wengxi Li)."
 
 date: 2026-04-13T00:00:00Z
 date_end: 2026-04-17T00:00:00Z

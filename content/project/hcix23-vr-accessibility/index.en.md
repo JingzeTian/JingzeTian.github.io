@@ -37,7 +37,7 @@ image:
 
 - With the guidance of [Prof. Mingming Fan](https://www.mingmingfan.com/), I led a research team and conducted a user study aimed at improving VR accessibility for people with motor impairments, specifically those with Spinal Muscular Atrophy, using **participatory design**.
 
-- As the **first author**, my paper titled "**Designing Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR**" was published at **CHI'24** ([DOI](https://doi.org/10.1145/3613904.3642884)).
+- As a **co-first author**, my paper titled "**Designing Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR**" was published at **CHI'24** ([DOI](https://doi.org/10.1145/3613904.3642884)).
 
 
 ---
