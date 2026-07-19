@@ -1,6 +1,6 @@
 ---
-title: HCIX'23:VR accessibility for people with motor impairments
-summary: Join the APEX Lab as a **Research Assistant** and lead a VR accessibility project. The paper has been submitted to CHI'24, and I have generated five other research ideas about accessibility.
+title: "HCIX'23: VR Accessibility for People with Motor Impairments"
+summary: Joined the APEX Lab as a **Research Assistant** and led a VR accessibility project. The resulting paper was published at CHI'24, and I generated five other research ideas about accessibility.
 tags:
   - Research
 date: '2023-06-01T00:00:00Z'
@@ -37,7 +37,7 @@ image:
 
 - With the guidance of [Prof. Mingming Fan](https://www.mingmingfan.com/), I led a research team and conducted a user study aimed at improving VR accessibility for people with motor impairments, specifically those with Spinal Muscular Atrophy, using **participatory design**.
 
-- As the **first author**, my paper titled "**Designing Gaze-Assisted Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR**" has been submitted to **CHI'24**.
+- As the **first author**, my paper titled "**Designing Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR**" was published at **CHI'24** ([DOI](https://doi.org/10.1145/3613904.3642884)).
 
 
 ---

@@ -22,7 +22,7 @@ sections:
           date_start: '2024-09-01'
           date_end: ''
           description:  |2-
-            With the instruction of my supervisor Prof. Can, studied and investigated the affordance of Speech-to-text input.
+            Advised by [Prof. Can Liu](https://sweb.cityu.edu.hk/canliu/index.html), I research thinking tools for content creation — interfaces that combine AI-assisted speech input with direct manipulation. Recent outcomes include Orality (first-author, CHI'26) and EchoLadder (UIST'25).
         - title: Research Assistant
           company: Accessible & Pervasive User EXperience ([APEX](https://www.mingmingfan.com/lab/)) Group, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
           company_url: ''
@@ -67,7 +67,6 @@ sections:
       title: Contact
       subtitle:
       email: jingztian2-c@my.cityu.edu.hk
-      phone: +852 46325507
       wechat: ChatTJZ
       address:
         street: 18 Tat Hong Avenue, CMC, City University of Hong Kong

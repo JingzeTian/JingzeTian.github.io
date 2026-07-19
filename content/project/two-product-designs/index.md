@@ -1,5 +1,5 @@
 ---
-title: Two Prodect Design
+title: Two Product Designs
 summary: Design of Eye-Controlled Assistive Wheelchair for ALS Patients and a Companion Robot for Attention Training in Autistic Children.
 tags:
   - Design
@@ -9,7 +9,6 @@ date: '2022-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 # links:
@@ -37,7 +36,7 @@ image:
 
 # Design of a Companion Robot for Attention Training in Autistic Children
 
-![Alt text](Autism/%E5%B9%BB%E7%81%AF%E7%89%871.JPG) ![Alt text](Autism/%E5%B9%BB%E7%81%AF%E7%89%872.JPG) ![Alt text](Autism/%E5%B9%BB%E7%81%AF%E7%89%873.JPG) ![Alt text](Autism/%E5%B9%BB%E7%81%AF%E7%89%874.JPG) ![Alt text](Autism/%E5%B9%BB%E7%81%AF%E7%89%875.JPG) ![Alt text](Autism/%E5%B9%BB%E7%81%AF%E7%89%876.JPG) ![Alt text](Autism/%E5%B9%BB%E7%81%AF%E7%89%877.JPG) ![Alt text](Autism/%E5%B9%BB%E7%81%AF%E7%89%878.JPG) ![Alt text](Autism/%E5%B9%BB%E7%81%AF%E7%89%879.JPG) ![Alt text](Autism/%E5%B9%BB%E7%81%AF%E7%89%8710.JPG) ![Alt text](Autism/%E5%B9%BB%E7%81%AF%E7%89%8711.JPG)
+![Alt text](Autism/slide-1.JPG) ![Alt text](Autism/slide-2.JPG) ![Alt text](Autism/slide-3.JPG) ![Alt text](Autism/slide-4.JPG) ![Alt text](Autism/slide-5.JPG) ![Alt text](Autism/slide-6.JPG) ![Alt text](Autism/slide-7.JPG) ![Alt text](Autism/slide-8.JPG) ![Alt text](Autism/slide-9.JPG) ![Alt text](Autism/slide-10.JPG) ![Alt text](Autism/slide-11.JPG)
 
 ---
 

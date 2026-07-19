@@ -1,21 +1,22 @@
 ---
-title: "Designing Gaze-Assisted Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR"
+title: "Designing Upper-Body Gesture Interaction with and for People with Spinal Muscular Atrophy in VR"
 authors:
 - admin
 - Yingna Wang
 - Keye Yu
 - Liyi Xu
+- Junan Xie
 - Franklin Mingzhe Li
 - Yafeng Niu
 - Mingming Fan
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-09-15T00:00:00Z"
-doi: ""
+date: "2024-05-11T00:00:00Z"
+doi: "10.1145/3613904.3642884"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-05-11T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,8 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The 2024 ACM CHI Conference on Human Factors in Computing Systems*(CHI'24) (**Under Review**)"
-# publication_short: "111111111111111111111111111111111111111"
+publication: "*The 2024 ACM CHI Conference on Human Factors in Computing Systems* (CHI'24)"
 
 abstract: Recent research proposed gaze-assisted gestures to enhance interaction within virtual reality (VR), providing opportunities for people with motor impairments to experience VR. Compared to people with other motor impairments, those with Spinal Muscular Atrophy (SMA) exhibit enhanced distal limb mobility, providing them more design space. However, it remains unknown what gaze-assisted upper-body gestures people with SMA would want and be able to perform. We conducted an elicitation study in which 12 VR-experienced people with SMA designed upper-body gestures for 26 VR commands, and collected 312 user-defined gestures. Participants predominantly favored creating gestures with their hands. The type of tasks and participants’ abilities influence their choice of body parts for gesture design. Participants tended to enhance their body involvement and preferred gestures that required minimal physical effort, and were aesthetically pleasing. Our research will contribute to creating better gesture-based input method for people with motor impairments to interact with VR.
 
@@ -38,17 +38,7 @@ tags:
 - User-centered Design
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
-# url_pdf: https://www.mdpi.com/1660-4601/19/17/10737/pdf
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_dataset: ''
-# url_poster: ''
-url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: ''
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3613904.3642884
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -64,12 +54,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 <!-- {{% callout note %}}

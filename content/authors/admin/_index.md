@@ -62,6 +62,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/JingzeTian
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
